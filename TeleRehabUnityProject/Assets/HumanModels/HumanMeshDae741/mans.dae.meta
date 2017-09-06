@@ -1,0 +1,150 @@
+fileFormatVersion: 2
+guid: b557a17c69f1aeb449b21cf9f0ff8c60
+timeCreated: 1479102534
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Head
+    100002: Hips
+    100004: LeftArm
+    100006: LeftFingerBase
+    100008: LeftFoot
+    100010: LeftForeArm
+    100012: LeftHand
+    100014: LeftHandFinger1
+    100016: LeftLeg
+    100018: LeftShoulder
+    100020: LeftToeBase
+    100022: LeftUpLeg
+    100024: LHipJoint
+    100026: LowerBack
+    100028: LThumb
+    100030: //RootNode
+    100032: mans
+    100034: mans-highpolyeyes
+    100036: mans-male_casualsuit06
+    100038: mans-proxy741
+    100040: Neck
+    100042: Neck1
+    100044: RHipJoint
+    100046: RightArm
+    100048: RightFingerBase
+    100050: RightFoot
+    100052: RightForeArm
+    100054: RightHand
+    100056: RightHandFinger1
+    100058: RightLeg
+    100060: RightShoulder
+    100062: RightToeBase
+    100064: RightUpLeg
+    100066: RThumb
+    100068: Spine
+    100070: Spine1
+    400000: Head
+    400002: Hips
+    400004: LeftArm
+    400006: LeftFingerBase
+    400008: LeftFoot
+    400010: LeftForeArm
+    400012: LeftHand
+    400014: LeftHandFinger1
+    400016: LeftLeg
+    400018: LeftShoulder
+    400020: LeftToeBase
+    400022: LeftUpLeg
+    400024: LHipJoint
+    400026: LowerBack
+    400028: LThumb
+    400030: mans
+    400032: //RootNode
+    400034: mans-highpolyeyes
+    400036: mans-male_casualsuit06
+    400038: mans-proxy741
+    400040: Neck
+    400042: Neck1
+    400044: RHipJoint
+    400046: RightArm
+    400048: RightFingerBase
+    400050: RightFoot
+    400052: RightForeArm
+    400054: RightHand
+    400056: RightHandFinger1
+    400058: RightLeg
+    400060: RightShoulder
+    400062: RightToeBase
+    400064: RightUpLeg
+    400066: RThumb
+    400068: Spine
+    400070: Spine1
+    4300000: mans-proxy741
+    4300002: mans-highpolyeyes
+    4300004: mans-male_casualsuit06
+    9500000: //RootNode
+    13700000: mans-highpolyeyes
+    13700002: mans-male_casualsuit06
+    13700004: mans-proxy741
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
