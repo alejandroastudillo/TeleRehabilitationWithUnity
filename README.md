@@ -3,14 +3,14 @@ Telerehabilitation project using Unity and a Wireless IMU network
 
 ## Developed By
 
-* __Alejandro Astudillo V., Industrial Control Research Group (GICI) - Universidad del Valle__ <br />
+* __Alejandro Astudillo V., Research Group in Industrial Control (GICI) - Universidad del Valle__ <br />
 <alejandro.astudillo@correounivalle.edu.co>
 
-* __Juan M. Luna L., Industrial Control Research Group (GICI) - Universidad del Valle__ <br />
+* __Juan M. Luna L., Research Group in Industrial Control (GICI) - Universidad del Valle__ <br />
 <juan.luna@correounivalle.edu.co>
 
 ## Links:
-* Industrial Control Research Group (GICI): http://gici.univalle.edu.co/
+* Research Group in Industrial Control (GICI): http://gici.univalle.edu.co/
 * Postgraduate Program in Electrical and Electronic Engineering (PPIEE): http://ppiee.univalle.edu.co/
 
 
