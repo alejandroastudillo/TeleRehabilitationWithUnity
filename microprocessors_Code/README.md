@@ -14,8 +14,11 @@ The libraries Adafruit BNO055, Adafruit Unified Sensor, and RF24, are included i
 
 ## Code
 
-The code that must be uploaded to the Feather M0 boards (master and nodes) is included in the */code/rframe24/* folder. In order to upload it correctly, you must change the *module_id* in line 25, being:
+The code that must be uploaded to the Feather M0 boards (master and nodes) is included in the */code/rframe24/* folder. In order to upload it correctly, you must change the *module_id* in __line 25__, being:
 
 *module_id = 0* for master
 
 *module_id = 1....7* for nodes.
+
+If you are going to implement multiple of this wireless sensor network, it is necessary to change the communication channel in each network in order to avoid communication interference. This can be done simply by changing the number in
+<br /> *radio.setChannel(Channel_Number)* in __line 93__.
