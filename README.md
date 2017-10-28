@@ -15,7 +15,8 @@ A portable system for lower limb movement capture oriented to the execution of m
 This data contains accelerations, angular velocities, magnetic field intensities and orientation represented in quaternions. The user can visualize in the smartphone screen its movements being followed by a 3D avatar and is able to choose four variables to plot in real time. The session data can be then uploaded to a server to let the physiotherapist make a control of the patient's exercises using the same application running in his smartphone or PC. This system adds the benefits of virtual reality to human gait rehabilitation activities, providing the patient with biofeedback, in addition to the possibility of performing such activities at home and not in a rehabilitation centre.
 
 ## Content Description
-The folder *TeleRehab_Unity_project* includes the desktop application developed in the cross-platform game engine [Unity](https://unity3d.com/). <br />
+The folder *TeleRehab_Unity_project* includes the desktop application developed in the cross-platform game engine [Unity](https://unity3d.com/).
+
 The software that runs in the microprocessors assigned as master or sensor nodes, is included in the *microprocessors_Code* folder.
 
 ## Links
